@@ -2,7 +2,7 @@
 Tiny c++ downloader that utilizes libcurl
 
 # basic usage
-lithdl <url>
+lithdl https://example.com/file.zip
 
 # dependencies
 c++ compiler
